@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "name": "Artem",
+      "password": "12345"
+    },
+    {
+      "name": "Artem",
+      "password": "3243244",
+      "id": 1681753911412
+    },
+    {
+      "name": "Artem",
+      "password": "343243243",
+      "id": 1681753993870
+    },
+    {
+      "name": "Artem243",
+      "password": "342432432",
+      "id": 1681754902684
+    },
+    {
+      "name": "Artem",
+      "password": "3342432",
+      "id": 1682236569185
+    },
+    {
+      "name": "Artem",
+      "password": "gfgf",
+      "id": 1682243931641
+    }
+  ],
+  "product": [
+    {
+      "title": "headphones",
+      "id": 1,
+      "price": 5000,
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus placeat totam ab quaerat praesentium animi voluptatum asperiores, qui recusandae aliquam at nesciunt. Ex nobis eius cumque corrupti sapiente voluptas natus aspernatur! Sit aspernatur, veritatis dolor provident laborum eos unde minima?"
+    },
+    {
+      "title": "headphones2",
+      "id": 2,
+      "price": 5200,
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus placeat totam ab quaerat praesentium animi voluptatum asperiores, qui recusandae aliquam at nesciunt. Ex nobis eius cumque corrupti sapiente voluptas natus aspernatur! Sit aspernatur, veritatis dolor provident laborum eos unde minima?"
+    },
+    {
+      "title": "headphones3",
+      "id": 3,
+      "price": 5300,
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus placeat totam ab quaerat praesentium animi voluptatum asperiores, qui recusandae aliquam at nesciunt. Ex nobis eius cumque corrupti sapiente voluptas natus aspernatur! Sit aspernatur, veritatis dolor provident laborum eos unde minima?"
+    },
+    {
+      "title": "headphones4",
+      "id": 4,
+      "price": 5400,
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus placeat totam ab quaerat praesentium animi voluptatum asperiores, qui recusandae aliquam at nesciunt. Ex nobis eius cumque corrupti sapiente voluptas natus aspernatur! Sit aspernatur, veritatis dolor provident laborum eos unde minima?"
+    }
+  ]
+}
